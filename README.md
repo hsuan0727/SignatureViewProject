@@ -3,7 +3,7 @@
 
 - Swift
 - MVVM
-- RxSwift
+- RxSwift(用於網路層共用方法＆畫面UI綁定)
 - snapKit
 - Kingfisher
 - Sign return UIImage
